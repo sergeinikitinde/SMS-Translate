@@ -1,1 +1,1 @@
-Open-source and Ad-free SMS/MMS messaging app
+Open-source SMS/MMS app based on Fossify Messages, with incoming message translation

@@ -11,3 +11,14 @@ keystore.properties
 fastlane/fastlane.json
 fastlane/report.xml
 .kotlin/
+
+# Cursor and other local AI assistant files
+.cursor/
+.cursorrules
+.claude/
+.aider*
+AGENTS.md
+CLAUDE.md
+.github/copilot-instructions.md
+.clinerules
+.windsurfrules
